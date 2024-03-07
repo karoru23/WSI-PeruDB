@@ -51,4 +51,4 @@ We encourage users to send their data to the following email address: japaestegu
 - Email address
 
 ## Download Data
-Users must send an email to the following email address: japaestegui@igp.gob.pe, including the same email details mentioned earlier, to download the dataset. This is necessary for us to maintain statistics about the database. 
+Users must fill the request through this google forms. This is necessary for us to maintain statistics about the database. 
