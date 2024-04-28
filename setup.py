@@ -16,6 +16,10 @@ setup(
         'geopandas',
         'xlsxwriter'
     ],
+    classifiers = [
+    "Programming Language :: Python :: 3",
+    "License ::  MIT License",
+    ],
     author='Carol Romero',
     author_email='romeroroldancarol@gmail.com',
     description='This package allows users to access the Water Stable Isotope Database in Peru. It includes 464 stations over Peru, updated until 2023, and provides an interactive map for exploring the spatial distribution of all the stations. Additionally, it offers features for technical validation and display temporal series for each station and department across Peru',
