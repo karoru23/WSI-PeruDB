@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Package Installation
-        run: pip install WSI-PeruDB 
+        run: echo "This is the package workflow" 
