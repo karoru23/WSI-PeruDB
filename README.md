@@ -40,7 +40,7 @@ pip install ipywidgets
 ```bash
 pip install geopandas
 ```
-9. Install [xlsxwrite]((https://pypi.org/project/XlsxWriter/))
+9. Install [xlsxwrite](https://pypi.org/project/XlsxWriter/)
 ```bash
 pip install XlsxWriter
 ```
