@@ -1,5 +1,5 @@
 # WSI-PeruDB [![DOI](https://zenodo.org/badge/747418826.svg)](https://zenodo.org/doi/10.5281/zenodo.10558511)
-This Jupyter notebook with Python coding allows users to access the Water Stable Isotope Database in Peru. It includes 464 stations over Peru, updated until 2023, and provides an interactive map for exploring the spatial distribution of all the stations. Additionally, it offers features for technical validation and display temporal series for each station and department across Peru.
+This package allows users to access the Water Stable Isotope Database in Peru. It includes 464 stations over Peru, updated until 2023, and provides an interactive map for exploring the spatial distribution of all the stations. Additionally, it offers features for technical validation and display temporal series for each station and department across Peru.
 
 ## Installation of Libraries
 Before running WSI-PeruDB script it is necessary to install these libraries using [pip](https://pip.pypa.io/en/stable/): 
@@ -39,6 +39,10 @@ pip install ipywidgets
 9. Install [Geopandas](https://pypi.org/project/geopandas/)
 ```bash
 pip install geopandas
+```
+9. Install [xlsxwrite]((https://pypi.org/project/XlsxWriter/))
+```bash
+pip install XlsxWriter
 ```
 ## GeoJson 
 To display comprehensive information about each station on an interactive map, we create a geojson called site_information.geojson file. Additionally, about the peru_departamental_simple.geojson file, we are using it from this [github](https://github.com/juaneladio/peru-geojson) 
