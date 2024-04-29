@@ -24,7 +24,7 @@ wsiperudb.department_information()
 ```
 
 <div align="left">
-    <img src="information.png" alt="map" width="400" height="400">
+    <img src="information.png" alt="map" width="400" height="200">
   </a>
 
 In order to plot the Linear Meteoric Water Line (LMWL) for every station, department, and sample type, users must run the following command:
@@ -33,7 +33,7 @@ In order to plot the Linear Meteoric Water Line (LMWL) for every station, depart
 wsiperudb.plot_lmwl()
 ```
 <div align="left">
-    <img src="lmwl.png" alt="map" width="400" height="400">
+    <img src="lmwl.png" alt="map" width="400" height="200">
   </a>
 
 The temporal series for every station and histogram for all data in each department, users must run the following commnad: 
@@ -42,10 +42,10 @@ The temporal series for every station and histogram for all data in each departm
 wsiperudb.analize_temporal_series()
 ```
 <div align="left">
-    <img src="histogram.png" alt="map" width="400" height="400">
+    <img src="histogram.png" alt="map" width="400" height="200">
   </a>
-<div align="right">
-    <img src="temporalseries.png" alt="map" width="400" height="400">
+<div align="left">
+    <img src="temporalseries.png" alt="map" width="400" height="200">
   </a>
 
 WSIPeruDB offers users the ability to compare temporal series from every department and sample type, taking into account both summer and winter seasons:
