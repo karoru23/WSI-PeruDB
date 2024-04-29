@@ -24,7 +24,7 @@ wsiperudb.department_information()
 ```
 
 <div align="left">
-    <img src="information.png" alt="map" width="500" height="500">
+    <img src="information.png" alt="map" width="200" height="200">
   </a>
 
 In order to plot the Linear Meteoric Water Line (LMWL) for every station, department, and sample type, users must run the following command:
@@ -33,7 +33,7 @@ In order to plot the Linear Meteoric Water Line (LMWL) for every station, depart
 wsiperudb.plot_lmwl()
 ```
 <div align="left">
-    <img src="lmwl.png" alt="map" width="500" height="500">
+    <img src="lmwl.png" alt="map" width="200" height="200">
   </a>
 
 The temporal series for every station and histogram for all data in each department, users must run the following commnad: 
@@ -42,10 +42,10 @@ The temporal series for every station and histogram for all data in each departm
 wsiperudb.analize_temporal_series()
 ```
 <div align="left">
-    <img src="histogram.png" alt="map" width="500" height="500">
+    <img src="histogram.png" alt="map" width="200" height="200">
   </a>
 <div align="right">
-    <img src="temporalseries.png" alt="map" width="500" height="500">
+    <img src="temporalseries.png" alt="map" width="200" height="200">
   </a>
 
 WSIPeruDB offers users the ability to compare temporal series from every department and sample type, taking into account both summer and winter seasons:
@@ -53,8 +53,8 @@ WSIPeruDB offers users the ability to compare temporal series from every departm
 ```
 wsiperudb.compare_departments()
 ```
-<div align="right">
-    <img src="comparing.png" alt="map" width="500" height="500">
+<div align="left">
+    <img src="comparing.png" alt="map" width="200" height="200">
   </a>
 
 Users can download dataset information for each department or station, based on their respective sample types.
@@ -62,7 +62,7 @@ Users can download dataset information for each department or station, based on 
 ```
 wsiperudb.download_dataset()
 ```
-<div align="right">
+<div align="left">
     <img src="dataset_download.png" alt="map" width="500" height="500">
   </a>
 
@@ -71,7 +71,7 @@ Finally, users can download site information for each department or station, bas
 ```
 wsiperudb.download_site_information()
 ```
-<div align="right">
+<div align="left">
     <img src="siteinformation_download.png" alt="map" width="500" height="500">
   </a>
 
