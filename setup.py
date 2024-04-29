@@ -11,7 +11,7 @@ setup(
         'mysql-connector-python',
         'folium',
         'scikit-learn',
-        'scikit-learn',
+        'plotly_express',
         'ipywidgets',
         'geopandas',
         'xlsxwriter'
@@ -23,6 +23,6 @@ setup(
     author='Carol Romero',
     author_email='romeroroldancarol@gmail.com',
     description='Water Stable Isotope Database in Peru',
-    long_description='This package allows users to access the Water Stable Isotope Database in Peru. It includes 464 stations over Peru, updated until 2023, and provides an interactive map for exploring the spatial distribution of all the stations. Additionally, it offers features for technical validation and display temporal series for each station and department across Peru'
+    long_description='This package allows users to access the Water Stable Isotope Database in Peru. It includes 464 stations over Peru, updated until 2023, and provides an interactive map for exploring the spatial distribution of all the stations. Additionally, it offers features for technical validation and display temporal series for each station and department across Peru',
     url='https://github.com/karoru23/WSI-PeruDB',
 )
