@@ -63,7 +63,7 @@ Users can download dataset information for each department or station, based on 
 wsiperudb.download_dataset()
 ```
 <div align="left">
-    <img src="images/dataset_download.png" alt="map" width="300" height="300">
+    <img src="images/dataset_download.png" alt="map" width="300" height="200">
   </a>
 
 Finally, users can download site information for each department or station, based on their respective sample types.
@@ -72,7 +72,7 @@ Finally, users can download site information for each department or station, bas
 wsiperudb.download_site_information()
 ```
 <div align="left">
-    <img src="simages/iteinformation_download.png" alt="map" width="500" height="500">
+    <img src="images/iteinformation_download.png" alt="map" width="500" height="500">
   </a>
 
 
