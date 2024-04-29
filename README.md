@@ -2,12 +2,12 @@
 This package allows users to access the Water Stable Isotope Database in Peru. It includes 464 stations over Peru, updated until 2023, and provides an interactive map for exploring the spatial distribution of all the stations. Additionally, it offers features for technical validation and display temporal series for each station and department across Peru.
 
 ## How to use it 
-First, users need to follow the steps below to access the WSIPeruDB: 
+First, users must install the package WSIPeruDB: 
 
 ```
 pip install WSIPeruDB
 ```
-After that, in order to view the spatial distribution of stable isotope stations, users must run the following script line: 
+After that, in order to view the spatial distribution of stable isotope stations, users must run the following command: 
 
 ```
 import wsiperudb
@@ -16,9 +16,64 @@ wsiperudb.generate_map()
 <div align="left">
     <img src="map.png" alt="map" width="500" height="500">
   </a>
+    
+To get information from every department, users must import the 'department_information' module. This allows them to check if the dataset is stored in the WSIPeruDB or in another database.
+    
+```
+wsiperudb.department_information()
+```
 
+<div align="left">
+    <img src="information.png" alt="map" width="500" height="500">
+  </a>
 
+In order to plot the Linear Meteoric Water Line (LMWL) for every station, department, and sample type, users must run the following command:
 
+```
+wsiperudb.plot_lmwl()
+```
+<div align="left">
+    <img src="lmwl.png" alt="map" width="500" height="500">
+  </a>
+
+The temporal series for every station and histogram for all data in each department, users must run the following commnad: 
+
+```
+wsiperudb.analize_temporal_series()
+```
+<div align="left">
+    <img src="histogram.png" alt="map" width="500" height="500">
+  </a>
+<div align="right">
+    <img src="temporalseries.png" alt="map" width="500" height="500">
+  </a>
+
+WSIPeruDB offers users the ability to compare temporal series from every department and sample type, taking into account both summer and winter seasons:
+
+```
+wsiperudb.compare_departments()
+```
+<div align="right">
+    <img src="comparing.png" alt="map" width="500" height="500">
+  </a>
+
+Users can download dataset information for each department or station, based on their respective sample types.
+
+```
+wsiperudb.download_dataset()
+```
+<div align="right">
+    <img src="dataset_download.png" alt="map" width="500" height="500">
+  </a>
+
+Finally, users can download site information for each department or station, based on their respective sample types.
+
+```
+wsiperudb.download_site_information()
+```
+<div align="right">
+    <img src="siteinformation_download.png" alt="map" width="500" height="500">
+  </a>
 
 
 ## GeoJson 
