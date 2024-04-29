@@ -18,7 +18,7 @@ setup(
     ],
     classifiers = [
     "Programming Language :: Python :: 3",
-    "License ::  MIT License",
+    "License :: OSI Approved :: MIT License",
     ],
     author='Carol Romero',
     author_email='romeroroldancarol@gmail.com',
