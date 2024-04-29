@@ -57,7 +57,7 @@ wsiperudb.compare_departments()
     <img src="images/comparing.png" alt="map" width="300" height="200">
   </a>
 
-Users can download dataset information for each department or station, based on their respective sample types.
+Users can download dataset information in an excel format for each department or station, based on their respective sample types.
 
 ```
 wsiperudb.download_dataset()
@@ -66,7 +66,7 @@ wsiperudb.download_dataset()
     <img src="images/dataset_download.png" alt="map" width="300" height="200">
   </a>
 
-Finally, users can download site information for each department or station, based on their respective sample types.
+Finally, users can download site information in an excel format for each department or station, based on their respective sample types.
 
 ```
 wsiperudb.download_site_information()
