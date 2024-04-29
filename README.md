@@ -13,7 +13,9 @@ After that, in order to view the spatial distribution of stable isotope stations
 import wsiperudb
 wsiperudb.generate_map()
 ```
-
+<div align="center">
+    <img src="https://github.com/karoru23/WSI-PeruDB/edit/main/README.md" alt="map" width="80" height="80">
+  </a>
 
 
 
