@@ -20,7 +20,7 @@ WSIPeruDB.generate_map()
 To get information from every department, users must import the 'department_information' module. This allows them to check if the dataset is stored in the WSIPeruDB or in another database.
     
 ```
-wsiperudb.department_information()
+WSIPeruDB.department_information()
 ```
 
 
