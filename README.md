@@ -72,7 +72,7 @@ Finally, users can download site information for each department or station, bas
 wsiperudb.download_site_information()
 ```
 <div align="left">
-    <img src="images/iteinformation_download.png" alt="map" width="500" height="500">
+    <img src="images/siteinformation_download.png" alt="map" width="500" height="500">
   </a>
 
 
