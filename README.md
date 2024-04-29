@@ -14,7 +14,7 @@ import wsiperudb
 wsiperudb.generate_map()
 ```
 <div align="center">
-    <img src="map.png" alt="map" width="80" height="80">
+    <img src="map.png" alt="map" width="220" height="220">
   </a>
 
 
