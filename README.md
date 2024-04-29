@@ -34,7 +34,7 @@ WSIPeruDB.plot_lmwl()
 The temporal series for every station and histogram for all data in each department, users must run the following commnad: 
 
 ```
-WSIPeruDB.analize_temporal_series()
+WSIPeruDB.analyze_temporal_series()
 ```
 
 WSIPeruDB offers users the ability to compare temporal series from every department and sample type, taking into account both summer and winter seasons:
