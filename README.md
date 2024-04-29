@@ -5,13 +5,13 @@ This package allows users to access the Water Stable Isotope Database in Peru. I
 First, users must install the package WSIPeruDB: 
 
 ```
-pip install WSIPeruDB
+pip install WSIPeruDB==0.1.0
 ```
 After that, in order to view the spatial distribution of stable isotope stations, users must run the following command: 
 
 ```
-import wsiperudb
-wsiperudb.generate_map()
+import WSIPeruDB
+WSIPeruDB.generate_map()
 ```
 <div align="left">
     <img src="images/map.png" alt="map" width="500" height="500">
@@ -23,57 +23,39 @@ To get information from every department, users must import the 'department_info
 wsiperudb.department_information()
 ```
 
-<div align="left">
-    <img src="images/information.png" alt="map" width="300" height="200">
-  </a>
 
 In order to plot the Linear Meteoric Water Line (LMWL) for every station, department, and sample type, users must run the following command:
 
 ```
-wsiperudb.plot_lmwl()
+WSIPeruDB.plot_lmwl()
 ```
-<div align="left">
-    <img src="images/lmwl.png" alt="map" width="300" height="200">
-  </a>
+
 
 The temporal series for every station and histogram for all data in each department, users must run the following commnad: 
 
 ```
-wsiperudb.analize_temporal_series()
+WSIPeruDB.analize_temporal_series()
 ```
-<div align="left">
-    <img src="images/histogram.png" alt="map" width="300" height="200">
-  </a>
-<div align="left">
-    <img src="images/temporalseries.png" alt="map" width="300" height="200">
-  </a>
 
 WSIPeruDB offers users the ability to compare temporal series from every department and sample type, taking into account both summer and winter seasons:
 
 ```
-wsiperudb.compare_departments()
+WSIPeruDB.compare_departments()
 ```
-<div align="left">
-    <img src="images/comparing.png" alt="map" width="300" height="200">
-  </a>
 
 Users can download dataset information in an excel format for each department or station, based on their respective sample types.
 
 ```
-wsiperudb.download_dataset()
+WSIPeruDB.download_dataset()
 ```
-<div align="left">
-    <img src="images/dataset_download.png" alt="map" width="300" height="200">
-  </a>
+
 
 Finally, users can download site information in an excel format for each department or station, based on their respective sample types.
 
 ```
-wsiperudb.download_site_information()
+WSIPeruDB.download_site_information()
 ```
-<div align="left">
-    <img src="images/siteinformation_download.png" alt="map" width="500" height="500">
-  </a>
+
 
 
 ## GeoJson 
