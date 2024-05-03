@@ -69,12 +69,5 @@ WSIPeruDB.download_site_information()
 ## GeoJson 
 To display comprehensive information about each station on an interactive map, we create a geojson called site_information.geojson file. Additionally, about the peru_departamental_simple.geojson file, we are using it from this [github](https://github.com/juaneladio/peru-geojson) 
 
-## Add data
-We encourage users to send their data to the following email address: japaestegui@igp.gob.pe, using the metadata template named 'WSI-PeruDB_template.xlsx' to add their station's information and dataset to the database. Additionally, please include the following details in the email:
-- User's Name
-- Institution or Company Name
-- Country
-- Email address
-
-## Download Data
-Users must fill the request through this google forms. This is necessary for us to maintain statistics about the database. 
+## Add and Download Data
+Users must fill the request through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfikgyxrKKnKIHRzj7CgmXvYh3pv7Psu4D5wsl4ps1ZCZQCmw/viewform?vc=0&c=0&w=1&flr=0) either for add or download data from the WSI-PeruDB. This is necessary for us to maintain statistics about the database. 
