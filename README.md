@@ -64,10 +64,10 @@ Finally, users can download site information in an excel format for each departm
 WSIPeruDB.download_site_information()
 ```
 
-
+## Add and Download Data
+Users must fill the request through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfikgyxrKKnKIHRzj7CgmXvYh3pv7Psu4D5wsl4ps1ZCZQCmw/viewform?vc=0&c=0&w=1&flr=0) either for add or download data from the WSI-PeruDB. This is necessary for us to maintain statistics about the database. 
 
 ## GeoJson 
 To display comprehensive information about each station on an interactive map, we create a geojson called site_information.geojson file. Additionally, about the peru_departamental_simple.geojson file, we are using it from this [github](https://github.com/juaneladio/peru-geojson) 
 
-## Add and Download Data
-Users must fill the request through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfikgyxrKKnKIHRzj7CgmXvYh3pv7Psu4D5wsl4ps1ZCZQCmw/viewform?vc=0&c=0&w=1&flr=0) either for add or download data from the WSI-PeruDB. This is necessary for us to maintain statistics about the database. 
+
