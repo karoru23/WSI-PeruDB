@@ -30,7 +30,9 @@ To get information from every department, users must import the 'department_info
 ```
 WSIPeruDB.department_information()
 ```
-
+<div align="left">
+    <img src="images/information.png" alt="map" width="500" height="500">
+  </a>
 
 In order to plot the Linear Meteoric Water Line (LMWL) for every station, department, and sample type, users must run the following command:
 
