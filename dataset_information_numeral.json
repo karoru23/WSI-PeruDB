@@ -1,0 +1,5521 @@
+{
+  "dataset": [
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2016/09/02",
+      "O18": "-7.61",
+      "D": "-45.50",
+      "Dxs": "15.38",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2016/09/15",
+      "O18": "-7.55",
+      "D": "-45.10",
+      "Dxs": "15.3",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2016/10/02",
+      "O18": "-7.67",
+      "D": "-45.90",
+      "Dxs": "15.46",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2016/10/16",
+      "O18": "-7.46",
+      "D": "-44.00",
+      "Dxs": "15.68",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2016/11/01",
+      "O18": "-7.72",
+      "D": "-46.30",
+      "Dxs": "15.46",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2016/11/16",
+      "O18": "-7.55",
+      "D": "-44.70",
+      "Dxs": "15.7",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2016/11/17",
+      "O18": "-7.46",
+      "D": "-43.90",
+      "Dxs": "15.78",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2016/12/01",
+      "O18": "-7.75",
+      "D": "-46.10",
+      "Dxs": "15.9",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/01/14",
+      "O18": "-7.66",
+      "D": "-46.50",
+      "Dxs": "14.78",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-7.62",
+      "D": "-46.10",
+      "Dxs": "14.86",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/02/16",
+      "O18": "-7.79",
+      "D": "-46.90",
+      "Dxs": "15.42",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-7.71",
+      "D": "-46.80",
+      "Dxs": "14.88",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/04/01",
+      "O18": "-8.37",
+      "D": "-52.90",
+      "Dxs": "14.06",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/05/01",
+      "O18": "-8.51",
+      "D": "-53.10",
+      "Dxs": "14.98",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/05/16",
+      "O18": "-8.74",
+      "D": "-55.40",
+      "Dxs": "14.52",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/06/01",
+      "O18": "-8.65",
+      "D": "-54.40",
+      "Dxs": "14.8",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/06/16",
+      "O18": "-9.14",
+      "D": "-58.80",
+      "Dxs": "14.32",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/07/01",
+      "O18": "-8.32",
+      "D": "-52.30",
+      "Dxs": "14.26",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/07/16",
+      "O18": "-8.09",
+      "D": "-49.40",
+      "Dxs": "15.32",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/08/01",
+      "O18": "-8.04",
+      "D": "-49.20",
+      "Dxs": "15.12",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/08/16",
+      "O18": "-7.77",
+      "D": "-46.80",
+      "Dxs": "15.36",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/09/01",
+      "O18": "-7.66",
+      "D": "-45.60",
+      "Dxs": "15.68",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/09/16",
+      "O18": "-7.51",
+      "D": "-44.60",
+      "Dxs": "15.48",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/10/01",
+      "O18": "-7.48",
+      "D": "-44.10",
+      "Dxs": "15.74",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/10/16",
+      "O18": "-6.84",
+      "D": "-39.00",
+      "Dxs": "15.72",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/11/16",
+      "O18": "-7.66",
+      "D": "-45.90",
+      "Dxs": "15.38",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/12/01",
+      "O18": "-7.78",
+      "D": "-46.80",
+      "Dxs": "15.44",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2017/12/16",
+      "O18": "-7.77",
+      "D": "-46.70",
+      "Dxs": "15.46",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2018/01/01",
+      "O18": "-8.68",
+      "D": "-54.20",
+      "Dxs": "15.24",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2018/01/16",
+      "O18": "-7.67",
+      "D": "-46.20",
+      "Dxs": "15.16",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2018/02/01",
+      "O18": "-7.83",
+      "D": "-47.30",
+      "Dxs": "15.34",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2018/02/16",
+      "O18": "-7.33",
+      "D": "-43.60",
+      "Dxs": "15.04",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000103",
+      "Sample_Collection_Date": "2018/02/25",
+      "O18": "-7.65",
+      "D": "-45.80",
+      "Dxs": "15.4",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000202",
+      "Sample_Collection_Date": "2016/11/02",
+      "O18": "-7.69",
+      "D": "-46.30",
+      "Dxs": "15.22",
+      "Sample_Type": "River",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000303",
+      "Sample_Collection_Date": "2016/11/20",
+      "O18": "-8.52",
+      "D": "-52.70",
+      "Dxs": "15.46",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000303",
+      "Sample_Collection_Date": "2018/02/26",
+      "O18": "-7.70",
+      "D": "-49.20",
+      "Dxs": "12.40",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/06/01",
+      "O18": "-9.06",
+      "D": "-55.90",
+      "Dxs": "16.58",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/06/16",
+      "O18": "-7.32",
+      "D": "-42.70",
+      "Dxs": "15.86",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/07/01",
+      "O18": "-5.14",
+      "D": "-22.90",
+      "Dxs": "18.22",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/07/16",
+      "O18": "-5.28",
+      "D": "-23.00",
+      "Dxs": "19.24",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/08/01",
+      "O18": "-2.54",
+      "D": "-5.60",
+      "Dxs": "14.72",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/08/16",
+      "O18": "-0.79",
+      "D": "13.90",
+      "Dxs": "20.22",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/09/01",
+      "O18": "-3.32",
+      "D": "-8.80",
+      "Dxs": "17.76",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/09/16",
+      "O18": "-2.28",
+      "D": "2.10",
+      "Dxs": "20.34",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/10/01",
+      "O18": "-5.64",
+      "D": "-26.40",
+      "Dxs": "18.72",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/10/16",
+      "O18": "-8.21",
+      "D": "-47.90",
+      "Dxs": "17.78",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/11/01",
+      "O18": "-14.24",
+      "D": "-99.20",
+      "Dxs": "14.72",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/11/16",
+      "O18": "-6.24",
+      "D": "-32.60",
+      "Dxs": "17.32",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/12/01",
+      "O18": "-6.45",
+      "D": "-36.40",
+      "Dxs": "15.2",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2012/12/16",
+      "O18": "-7.89",
+      "D": "-46.80",
+      "Dxs": "16.32",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/01/01",
+      "O18": "-8.10",
+      "D": "-47.80",
+      "Dxs": "17",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/01/16",
+      "O18": "-3.77",
+      "D": "-13.10",
+      "Dxs": "17.06",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/02/01",
+      "O18": "-5.54",
+      "D": "-26.10",
+      "Dxs": "18.22",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/02/16",
+      "O18": "-4.30",
+      "D": "-20.50",
+      "Dxs": "13.9",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/03/01",
+      "O18": "-9.60",
+      "D": "-67.00",
+      "Dxs": "9.8",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/03/16",
+      "O18": "-8.30",
+      "D": "-54.40",
+      "Dxs": "12",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/04/01",
+      "O18": "-11.40",
+      "D": "-79.00",
+      "Dxs": "12.2",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/04/16",
+      "O18": "-9.20",
+      "D": "-62.90",
+      "Dxs": "10.7",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/05/01",
+      "O18": "-10.10",
+      "D": "-70.50",
+      "Dxs": "10.3",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/05/16",
+      "O18": "-10.20",
+      "D": "-69.40",
+      "Dxs": "12.2",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/06/01",
+      "O18": "-9.22",
+      "D": "-63.98",
+      "Dxs": "9.78",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/06/16",
+      "O18": "-7.80",
+      "D": "-51.70",
+      "Dxs": "10.7",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/07/01",
+      "O18": "-7.70",
+      "D": "-45.50",
+      "Dxs": "16.1",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/07/16",
+      "O18": "-7.10",
+      "D": "-43.20",
+      "Dxs": "13.6",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/08/01",
+      "O18": "-5.50",
+      "D": "-31.00",
+      "Dxs": "13",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/08/16",
+      "O18": "-5.90",
+      "D": "-30.30",
+      "Dxs": "16.9",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/09/01",
+      "O18": "-4.60",
+      "D": "-18.60",
+      "Dxs": "18.2",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/10/01",
+      "O18": "-5.03",
+      "D": "-25.25",
+      "Dxs": "14.96",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/10/16",
+      "O18": "-5.24",
+      "D": "-25.93",
+      "Dxs": "16.02",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/11/01",
+      "O18": "-6.64",
+      "D": "-38.27",
+      "Dxs": "14.83",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/11/16",
+      "O18": "-7.07",
+      "D": "-41.97",
+      "Dxs": "14.62",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/12/02",
+      "O18": "-4.44",
+      "D": "-23.49",
+      "Dxs": "12.01",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2013/12/16",
+      "O18": "-9.41",
+      "D": "-62.66",
+      "Dxs": "12.65",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2014/01/01",
+      "O18": "-7.13",
+      "D": "-41.63",
+      "Dxs": "15.38",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2014/03/01",
+      "O18": "-5.41",
+      "D": "-27.13",
+      "Dxs": "16.17",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2014/03/16",
+      "O18": "-6.89",
+      "D": "-39.19",
+      "Dxs": "15.97",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2014/04/01",
+      "O18": "-10.64",
+      "D": "-72.06",
+      "Dxs": "13.06",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2014/04/16",
+      "O18": "-10.32",
+      "D": "-69.64",
+      "Dxs": "12.89",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2014/05/01",
+      "O18": "-8.39",
+      "D": "-51.40",
+      "Dxs": "15.74",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2014/05/16",
+      "O18": "-12.49",
+      "D": "-87.58",
+      "Dxs": "12.34",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2014/06/01",
+      "O18": "-13.77",
+      "D": "-96.90",
+      "Dxs": "13.22",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2016/10/01",
+      "O18": "-2.64",
+      "D": "-5.60",
+      "Dxs": "15.52",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2016/10/16",
+      "O18": "-6.08",
+      "D": "-34.00",
+      "Dxs": "14.64",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2016/11/01",
+      "O18": "-3.50",
+      "D": "-12.40",
+      "Dxs": "15.6",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2016/11/16",
+      "O18": "-6.80",
+      "D": "-38.10",
+      "Dxs": "16.3",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2016/12/01",
+      "O18": "-6.05",
+      "D": "-33.50",
+      "Dxs": "14.9",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2016/12/16",
+      "O18": "-5.61",
+      "D": "-32.20",
+      "Dxs": "12.68",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/01/01",
+      "O18": "-6.13",
+      "D": "-36.70",
+      "Dxs": "12.34",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/01/16",
+      "O18": "-4.96",
+      "D": "-29.00",
+      "Dxs": "10.68",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-6.37",
+      "D": "-36.70",
+      "Dxs": "14.26",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/02/16",
+      "O18": "-6.11",
+      "D": "-37.50",
+      "Dxs": "11.38",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/03/01",
+      "O18": "-8.23",
+      "D": "-53.60",
+      "Dxs": "12.24",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-7.59",
+      "D": "-50.60",
+      "Dxs": "10.12",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/04/01",
+      "O18": "-18.00",
+      "D": "-131.50",
+      "Dxs": "12.5",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/04/16",
+      "O18": "-10.70",
+      "D": "-76.10",
+      "Dxs": "9.5",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/05/01",
+      "O18": "-11.99",
+      "D": "-87.40",
+      "Dxs": "8.52",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/05/16",
+      "O18": "-14.81",
+      "D": "-110.00",
+      "Dxs": "8.48",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/06/01",
+      "O18": "-9.95",
+      "D": "-70.20",
+      "Dxs": "9.4",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/06/16",
+      "O18": "-8.89",
+      "D": "-59.60",
+      "Dxs": "11.52",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/07/01",
+      "O18": "-3.47",
+      "D": "-12.30",
+      "Dxs": "15.46",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/07/16",
+      "O18": "-0.42",
+      "D": "15.20",
+      "Dxs": "18.56",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/08/01",
+      "O18": "-0.04",
+      "D": "14.10",
+      "Dxs": "14.42",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/08/16",
+      "O18": "-1.36",
+      "D": "5.10",
+      "Dxs": "15.98",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/09/01",
+      "O18": "-3.80",
+      "D": "-14.80",
+      "Dxs": "15.6",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/09/16",
+      "O18": "-0.38",
+      "D": "13.60",
+      "Dxs": "16.64",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/10/01",
+      "O18": "-2.93",
+      "D": "-8.70",
+      "Dxs": "14.74",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/10/16",
+      "O18": "-4.56",
+      "D": "-23.40",
+      "Dxs": "13.08",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/11/01",
+      "O18": "-7.42",
+      "D": "-46.90",
+      "Dxs": "12.46",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/11/16",
+      "O18": "-6.66",
+      "D": "-44.90",
+      "Dxs": "8.38",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/12/01",
+      "O18": "-8.23",
+      "D": "-54.70",
+      "Dxs": "11.14",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2017/12/16",
+      "O18": "-4.06",
+      "D": "-20.50",
+      "Dxs": "11.98",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/01/01",
+      "O18": "-0.80",
+      "D": "5.90",
+      "Dxs": "12.3",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/01/16",
+      "O18": "-9.16",
+      "D": "-62.70",
+      "Dxs": "10.58",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/02/01",
+      "O18": "-8.03",
+      "D": "-53.20",
+      "Dxs": "11.04",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/02/16",
+      "O18": "-1.14",
+      "D": "7.40",
+      "Dxs": "16.52",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/03/01",
+      "O18": "-2.82",
+      "D": "-10.40",
+      "Dxs": "12.16",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/03/16",
+      "O18": "-5.05",
+      "D": "-27.90",
+      "Dxs": "12.5",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/04/01",
+      "O18": "-7.08",
+      "D": "-42.80",
+      "Dxs": "13.84",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/04/16",
+      "O18": "-7.42",
+      "D": "-45.30",
+      "Dxs": "14.06",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/05/01",
+      "O18": "-12.69",
+      "D": "-89.10",
+      "Dxs": "12.42",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/05/16",
+      "O18": "-2.25",
+      "D": "-4.00",
+      "Dxs": "14",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/06/01",
+      "O18": "-13.19",
+      "D": "-95.10",
+      "Dxs": "10.42",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/06/16",
+      "O18": "-12.82",
+      "D": "-89.20",
+      "Dxs": "13.36",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/07/01",
+      "O18": "-1.89",
+      "D": "-10.60",
+      "Dxs": "4.52",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/07/16",
+      "O18": "-1.35",
+      "D": "-3.40",
+      "Dxs": "7.4",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/08/01",
+      "O18": "-2.37",
+      "D": "-4.20",
+      "Dxs": "14.76",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/08/16",
+      "O18": "-3.35",
+      "D": "-10.30",
+      "Dxs": "16.5",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000401",
+      "Sample_Collection_Date": "2018/09/01",
+      "O18": "-2.62",
+      "D": "-5.00",
+      "Dxs": "15.96",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2016/09/04",
+      "O18": "-7.33",
+      "D": "-44.40",
+      "Dxs": "14.24",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2016/10/01",
+      "O18": "-7.47",
+      "D": "-45.40",
+      "Dxs": "14.36",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2016/10/16",
+      "O18": "-7.62",
+      "D": "-46.60",
+      "Dxs": "14.36",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2016/11/01",
+      "O18": "-7.38",
+      "D": "-44.60",
+      "Dxs": "14.44",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2016/11/17",
+      "O18": "-7.39",
+      "D": "-44.70",
+      "Dxs": "14.42",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2016/12/01",
+      "O18": "-7.37",
+      "D": "-44.10",
+      "Dxs": "14.86",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2016/12/16",
+      "O18": "-7.25",
+      "D": "-43.20",
+      "Dxs": "14.8",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/01/01",
+      "O18": "-6.63",
+      "D": "-38.40",
+      "Dxs": "14.64",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/01/16",
+      "O18": "-7.02",
+      "D": "-41.50",
+      "Dxs": "14.66",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-7.19",
+      "D": "-43.40",
+      "Dxs": "14.12",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/02/16",
+      "O18": "-7.35",
+      "D": "-44.60",
+      "Dxs": "14.2",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/03/01",
+      "O18": "-7.16",
+      "D": "-43.00",
+      "Dxs": "14.28",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-7.23",
+      "D": "-43.80",
+      "Dxs": "14.04",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/04/01",
+      "O18": "-7.54",
+      "D": "-46.30",
+      "Dxs": "14.02",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/04/16",
+      "O18": "-7.84",
+      "D": "-48.40",
+      "Dxs": "14.32",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/05/01",
+      "O18": "-8.29",
+      "D": "-52.20",
+      "Dxs": "14.12",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/05/16",
+      "O18": "-8.45",
+      "D": "-54.00",
+      "Dxs": "13.6",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/06/01",
+      "O18": "-7.99",
+      "D": "-49.90",
+      "Dxs": "14.02",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/06/16",
+      "O18": "-8.30",
+      "D": "-52.50",
+      "Dxs": "13.9",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/07/01",
+      "O18": "-8.51",
+      "D": "-54.80",
+      "Dxs": "13.28",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/07/16",
+      "O18": "-7.85",
+      "D": "-48.80",
+      "Dxs": "14",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/08/01",
+      "O18": "-7.78",
+      "D": "-48.10",
+      "Dxs": "14.14",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/08/16",
+      "O18": "-7.76",
+      "D": "-47.80",
+      "Dxs": "14.28",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/09/01",
+      "O18": "-7.75",
+      "D": "-48.10",
+      "Dxs": "13.9",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/09/16",
+      "O18": "-7.87",
+      "D": "-48.90",
+      "Dxs": "14.06",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/10/01",
+      "O18": "-7.66",
+      "D": "-47.20",
+      "Dxs": "14.08",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/10/16",
+      "O18": "-7.35",
+      "D": "-44.60",
+      "Dxs": "14.2",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/11/01",
+      "O18": "-7.56",
+      "D": "-46.30",
+      "Dxs": "14.18",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/11/16",
+      "O18": "-7.52",
+      "D": "-46.10",
+      "Dxs": "14.06",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/12/01",
+      "O18": "-7.54",
+      "D": "-46.40",
+      "Dxs": "13.92",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2017/12/16",
+      "O18": "-7.63",
+      "D": "-46.80",
+      "Dxs": "14.24",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/01/01",
+      "O18": "-7.63",
+      "D": "-46.80",
+      "Dxs": "14.24",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/01/16",
+      "O18": "-7.50",
+      "D": "-46.40",
+      "Dxs": "13.6",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/02/01",
+      "O18": "-7.61",
+      "D": "-46.70",
+      "Dxs": "14.18",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/02/16",
+      "O18": "-6.94",
+      "D": "-42.30",
+      "Dxs": "13.22",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/03/01",
+      "O18": "-6.89",
+      "D": "-41.40",
+      "Dxs": "13.72",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/03/16",
+      "O18": "-7.40",
+      "D": "-45.20",
+      "Dxs": "14",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/04/01",
+      "O18": "-7.40",
+      "D": "-45.50",
+      "Dxs": "13.7",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/05/01",
+      "O18": "-7.31",
+      "D": "-45.90",
+      "Dxs": "12.58",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/05/16",
+      "O18": "-8.25",
+      "D": "-52.00",
+      "Dxs": "14",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/06/01",
+      "O18": "-7.83",
+      "D": "-48.60",
+      "Dxs": "14.04",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/06/16",
+      "O18": "-7.92",
+      "D": "-49.20",
+      "Dxs": "14.16",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/07/01",
+      "O18": "-7.81",
+      "D": "-48.20",
+      "Dxs": "14.28",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/07/16",
+      "O18": "-7.75",
+      "D": "-47.50",
+      "Dxs": "14.5",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/08/01",
+      "O18": "-7.75",
+      "D": "-47.90",
+      "Dxs": "14.1",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/08/16",
+      "O18": "-7.57",
+      "D": "-46.80",
+      "Dxs": "13.76",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000503",
+      "Sample_Collection_Date": "2018/09/01",
+      "O18": "-7.62",
+      "D": "-47.50",
+      "Dxs": "13.46",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000602",
+      "Sample_Collection_Date": "2016/11/18",
+      "O18": "-7.30",
+      "D": "-44.80",
+      "Dxs": "13.6",
+      "Sample_Type": "River",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000602",
+      "Sample_Collection_Date": "2018/02/26",
+      "O18": "-7.30",
+      "D": "-46.20",
+      "Dxs": "12.20",
+      "Sample_Type": "River",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2016/10/01",
+      "O18": "-8.55",
+      "D": "-52.70",
+      "Dxs": "15.7",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2016/10/16",
+      "O18": "-8.63",
+      "D": "-53.40",
+      "Dxs": "15.64",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2016/11/01",
+      "O18": "-8.75",
+      "D": "-54.60",
+      "Dxs": "15.4",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2016/11/16",
+      "O18": "-8.55",
+      "D": "-53.20",
+      "Dxs": "15.2",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2016/11/17",
+      "O18": "-8.75",
+      "D": "-54.40",
+      "Dxs": "15.6",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2016/12/01",
+      "O18": "-8.65",
+      "D": "-53.70",
+      "Dxs": "15.5",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2016/12/16",
+      "O18": "-8.59",
+      "D": "-53.00",
+      "Dxs": "15.72",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-8.62",
+      "D": "-53.50",
+      "Dxs": "15.46",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/02/16",
+      "O18": "-8.77",
+      "D": "-55.00",
+      "Dxs": "15.16",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/03/01",
+      "O18": "-8.56",
+      "D": "-53.20",
+      "Dxs": "15.28",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-8.71",
+      "D": "-54.30",
+      "Dxs": "15.38",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/04/01",
+      "O18": "-9.01",
+      "D": "-56.90",
+      "Dxs": "15.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/04/16",
+      "O18": "-9.03",
+      "D": "-56.90",
+      "Dxs": "15.34",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/04/30",
+      "O18": "-9.10",
+      "D": "-57.40",
+      "Dxs": "15.4",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/05/01",
+      "O18": "-9.05",
+      "D": "-57.50",
+      "Dxs": "14.9",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/05/17",
+      "O18": "-9.06",
+      "D": "-57.50",
+      "Dxs": "14.98",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/06/02",
+      "O18": "-8.95",
+      "D": "-56.60",
+      "Dxs": "15",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/06/16",
+      "O18": "-8.95",
+      "D": "-56.60",
+      "Dxs": "15",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/07/01",
+      "O18": "-8.93",
+      "D": "-56.50",
+      "Dxs": "14.94",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/07/16",
+      "O18": "-8.94",
+      "D": "-56.50",
+      "Dxs": "15.02",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/08/01",
+      "O18": "-8.94",
+      "D": "-56.70",
+      "Dxs": "14.82",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/08/11",
+      "O18": "-8.97",
+      "D": "-56.80",
+      "Dxs": "14.96",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/08/17",
+      "O18": "-8.96",
+      "D": "-56.50",
+      "Dxs": "15.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/09/21",
+      "O18": "-8.65",
+      "D": "-53.80",
+      "Dxs": "15.4",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/10/01",
+      "O18": "-8.67",
+      "D": "-53.90",
+      "Dxs": "15.46",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/10/09",
+      "O18": "-8.61",
+      "D": "-53.40",
+      "Dxs": "15.48",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/11/01",
+      "O18": "-8.55",
+      "D": "-53.00",
+      "Dxs": "15.4",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/11/16",
+      "O18": "-8.66",
+      "D": "-53.90",
+      "Dxs": "15.38",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/12/01",
+      "O18": "-8.66",
+      "D": "-53.90",
+      "Dxs": "15.38",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2017/12/16",
+      "O18": "-8.38",
+      "D": "-53.50",
+      "Dxs": "13.54",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/01/16",
+      "O18": "-8.72",
+      "D": "-54.50",
+      "Dxs": "15.26",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/02/01",
+      "O18": "-8.81",
+      "D": "-55.10",
+      "Dxs": "15.38",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/02/16",
+      "O18": "-8.61",
+      "D": "-53.70",
+      "Dxs": "15.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/02/27",
+      "O18": "-8.68",
+      "D": "-54.40",
+      "Dxs": "15.04",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/03/01",
+      "O18": "-8.81",
+      "D": "-55.00",
+      "Dxs": "15.48",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/03/18",
+      "O18": "-8.69",
+      "D": "-54.10",
+      "Dxs": "15.42",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/04/01",
+      "O18": "-8.36",
+      "D": "-51.70",
+      "Dxs": "15.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/04/16",
+      "O18": "-8.76",
+      "D": "-54.90",
+      "Dxs": "15.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/05/01",
+      "O18": "-8.94",
+      "D": "-56.40",
+      "Dxs": "15.12",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/05/16",
+      "O18": "-9.32",
+      "D": "-59.60",
+      "Dxs": "14.96",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/06/01",
+      "O18": "-9.06",
+      "D": "-57.30",
+      "Dxs": "15.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/06/16",
+      "O18": "-9.04",
+      "D": "-57.20",
+      "Dxs": "15.12",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/08/02",
+      "O18": "-8.96",
+      "D": "-56.50",
+      "Dxs": "15.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000703",
+      "Sample_Collection_Date": "2018/09/04",
+      "O18": "-8.88",
+      "D": "-55.70",
+      "Dxs": "15.34",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2016/10/01",
+      "O18": "-7.60",
+      "D": "-45.30",
+      "Dxs": "15.5",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2016/10/16",
+      "O18": "-7.74",
+      "D": "-46.30",
+      "Dxs": "15.62",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2016/11/01",
+      "O18": "-7.37",
+      "D": "-43.50",
+      "Dxs": "15.46",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2016/11/16",
+      "O18": "-7.73",
+      "D": "-45.90",
+      "Dxs": "15.94",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2016/11/17",
+      "O18": "-7.71",
+      "D": "-46.10",
+      "Dxs": "15.58",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2016/12/01",
+      "O18": "-7.91",
+      "D": "-47.90",
+      "Dxs": "15.38",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2016/12/16",
+      "O18": "-7.95",
+      "D": "-48.20",
+      "Dxs": "15.4",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/01/02",
+      "O18": "-7.93",
+      "D": "-48.00",
+      "Dxs": "15.44",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/01/16",
+      "O18": "-7.80",
+      "D": "-46.90",
+      "Dxs": "15.5",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-8.41",
+      "D": "-52.40",
+      "Dxs": "14.88",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/02/15",
+      "O18": "-8.37",
+      "D": "-51.80",
+      "Dxs": "15.16",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/03/01",
+      "O18": "-8.35",
+      "D": "-51.80",
+      "Dxs": "15",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-8.37",
+      "D": "-51.90",
+      "Dxs": "15.06",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/04/01",
+      "O18": "-8.38",
+      "D": "-52.20",
+      "Dxs": "14.84",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/04/15",
+      "O18": "-8.37",
+      "D": "-51.80",
+      "Dxs": "15.16",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/04/29",
+      "O18": "-8.26",
+      "D": "-50.90",
+      "Dxs": "15.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2017/08/11",
+      "O18": "-8.15",
+      "D": "-49.90",
+      "Dxs": "15.3",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2018/02/16",
+      "O18": "-7.81",
+      "D": "-48.30",
+      "Dxs": "14.18",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000803",
+      "Sample_Collection_Date": "2018/02/27",
+      "O18": "-8.04",
+      "D": "-49.10",
+      "Dxs": "15.22",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-6.43",
+      "D": "-35.90",
+      "Dxs": "15.54",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/02/16",
+      "O18": "-4.74",
+      "D": "-22.20",
+      "Dxs": "15.72",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/03/01",
+      "O18": "-8.91",
+      "D": "-57.70",
+      "Dxs": "13.58",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-11.44",
+      "D": "-81.90",
+      "Dxs": "9.62",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/04/01",
+      "O18": "-17.14",
+      "D": "-127.00",
+      "Dxs": "10.12",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/04/16",
+      "O18": "-10.26",
+      "D": "-68.40",
+      "Dxs": "13.68",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/05/01",
+      "O18": "-13.63",
+      "D": "-98.00",
+      "Dxs": "11.04",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/05/16",
+      "O18": "-12.14",
+      "D": "-84.70",
+      "Dxs": "12.42",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/06/01",
+      "O18": "-7.95",
+      "D": "-49.60",
+      "Dxs": "14",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/06/16",
+      "O18": "-10.89",
+      "D": "-74.80",
+      "Dxs": "12.32",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/07/01",
+      "O18": "-3.28",
+      "D": "-6.80",
+      "Dxs": "19.44",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/07/17",
+      "O18": "-1.66",
+      "D": "4.90",
+      "Dxs": "18.18",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/08/01",
+      "O18": "-0.65",
+      "D": "14.20",
+      "Dxs": "19.4",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/11/01",
+      "O18": "-9.63",
+      "D": "-62.90",
+      "Dxs": "14.14",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "000901",
+      "Sample_Collection_Date": "2017/12/16",
+      "O18": "-6.63",
+      "D": "-38.70",
+      "Dxs": "14.34",
+      "Sample_Type": "Precipitation",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2016/01/29",
+      "O18": "1.09",
+      "D": "10.90",
+      "Dxs": "2.18",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2016/01/30",
+      "O18": "0.34",
+      "D": "8.40",
+      "Dxs": "5.68",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2016/03/03",
+      "O18": "-0.16",
+      "D": "0.90",
+      "Dxs": "2.18",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2016/03/05",
+      "O18": "-2.98",
+      "D": "-16.40",
+      "Dxs": "7.44",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/02/02",
+      "O18": "-5.41",
+      "D": "-35.60",
+      "Dxs": "7.68",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/02/04",
+      "O18": "-9.76",
+      "D": "-73.40",
+      "Dxs": "4.68",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/02/05",
+      "O18": "-5.08",
+      "D": "-31.00",
+      "Dxs": "9.64",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/02/20",
+      "O18": "-2.75",
+      "D": "-8.01",
+      "Dxs": "13.99",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/02/27",
+      "O18": "-3.04",
+      "D": "-13.30",
+      "Dxs": "11.02",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/05",
+      "O18": "-8.38",
+      "D": "-54.40",
+      "Dxs": "12.64",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/06",
+      "O18": "-7.72",
+      "D": "-48.40",
+      "Dxs": "13.36",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/07",
+      "O18": "-7.92",
+      "D": "-51.00",
+      "Dxs": "12.36",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/08",
+      "O18": "-9.54",
+      "D": "-68.50",
+      "Dxs": "7.82",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/09",
+      "O18": "-11.40",
+      "D": "-80.80",
+      "Dxs": "10.4",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/13",
+      "O18": "-10.17",
+      "D": "-73.50",
+      "Dxs": "7.86",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/22",
+      "O18": "-11.46",
+      "D": "-83.20",
+      "Dxs": "8.48",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/24",
+      "O18": "-9.16",
+      "D": "-61.50",
+      "Dxs": "11.78",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/25",
+      "O18": "-8.86",
+      "D": "-58.50",
+      "Dxs": "12.38",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001001",
+      "Sample_Collection_Date": "2017/03/26",
+      "O18": "-13.20",
+      "D": "-95.90",
+      "Dxs": "9.7",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2015/12/02",
+      "O18": "-1.20",
+      "D": "-1.90",
+      "Dxs": "7.7",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2015/12/09",
+      "O18": "-0.50",
+      "D": "2.40",
+      "Dxs": "6.4",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2015/12/16",
+      "O18": "-0.80",
+      "D": "1.70",
+      "Dxs": "8.1",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2015/12/30",
+      "O18": "-0.80",
+      "D": "2.30",
+      "Dxs": "8.7",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/01/06",
+      "O18": "-0.60",
+      "D": "4.40",
+      "Dxs": "9.2",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/01/13",
+      "O18": "-0.80",
+      "D": "2.90",
+      "Dxs": "9.3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/01/20",
+      "O18": "-0.50",
+      "D": "5.80",
+      "Dxs": "9.8",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/01/27",
+      "O18": "-0.70",
+      "D": "4.30",
+      "Dxs": "9.9",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/02/03",
+      "O18": "-1.20",
+      "D": "0.40",
+      "Dxs": "10",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/02/10",
+      "O18": "-1.60",
+      "D": "1.40",
+      "Dxs": "14.2",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/02/17",
+      "O18": "-2.30",
+      "D": "-4.50",
+      "Dxs": "13.9",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/02/24",
+      "O18": "-2.10",
+      "D": "-2.80",
+      "Dxs": "14",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/03/02",
+      "O18": "-4.50",
+      "D": "-19.90",
+      "Dxs": "16.1",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/03/05",
+      "O18": "-4.40",
+      "D": "-19.90",
+      "Dxs": "15.3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/03/09",
+      "O18": "-10.10",
+      "D": "-67.00",
+      "Dxs": "13.8",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/03/16",
+      "O18": "-3.50",
+      "D": "-16.50",
+      "Dxs": "11.5",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/03/23",
+      "O18": "-3.20",
+      "D": "-11.30",
+      "Dxs": "14.3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/03/30",
+      "O18": "-3.00",
+      "D": "-11.30",
+      "Dxs": "12.7",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/04/06",
+      "O18": "-7.40",
+      "D": "-46.40",
+      "Dxs": "12.8",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/04/13",
+      "O18": "-7.60",
+      "D": "-46.30",
+      "Dxs": "14.5",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/05/11",
+      "O18": "-4.60",
+      "D": "-28.00",
+      "Dxs": "8.8",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/05/18",
+      "O18": "-4.30",
+      "D": "-23.90",
+      "Dxs": "10.5",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/05/25",
+      "O18": "-4.00",
+      "D": "-23.80",
+      "Dxs": "8.2",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/06/01",
+      "O18": "-3.90",
+      "D": "-24.00",
+      "Dxs": "7.2",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2016/06/08",
+      "O18": "-3.90",
+      "D": "-23.90",
+      "Dxs": "7.3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/01/29",
+      "O18": "-7.65",
+      "D": "-52.10",
+      "Dxs": "9.1",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/02/05",
+      "O18": "-8.24",
+      "D": "-53.90",
+      "Dxs": "12.02",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/02/17",
+      "O18": "-2.62",
+      "D": "-9.50",
+      "Dxs": "11.46",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/02/23",
+      "O18": "-5.33",
+      "D": "-28.80",
+      "Dxs": "13.84",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/03/04",
+      "O18": "-8.95",
+      "D": "-56.30",
+      "Dxs": "15.3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/03/11",
+      "O18": "-15.72",
+      "D": "-111.80",
+      "Dxs": "13.96",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-18.34",
+      "D": "-134.80",
+      "Dxs": "11.92",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/03/22",
+      "O18": "-18.24",
+      "D": "-134.40",
+      "Dxs": "11.52",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001101",
+      "Sample_Collection_Date": "2017/03/24",
+      "O18": "-17.11",
+      "D": "-122.90",
+      "Dxs": "13.98",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2015/12/14",
+      "O18": "-7.36",
+      "D": "-45.00",
+      "Dxs": "13.88",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/01/06",
+      "O18": "-1.81",
+      "D": "-9.40",
+      "Dxs": "5.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/01/09",
+      "O18": "-0.61",
+      "D": "-1.80",
+      "Dxs": "3.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/01/13",
+      "O18": "-2.69",
+      "D": "-7.50",
+      "Dxs": "14.02",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/01/18",
+      "O18": "-0.13",
+      "D": "12.10",
+      "Dxs": "13.14",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/01/30",
+      "O18": "-1.83",
+      "D": "1.20",
+      "Dxs": "15.84",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/01/31",
+      "O18": "-1.77",
+      "D": "1.60",
+      "Dxs": "15.76",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/02/05",
+      "O18": "-1.48",
+      "D": "0.40",
+      "Dxs": "12.24",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/02/09",
+      "O18": "-10.47",
+      "D": "-75.30",
+      "Dxs": "8.46",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001201",
+      "Sample_Collection_Date": "2016/02/23",
+      "O18": "-2.63",
+      "D": "-8.90",
+      "Dxs": "12.14",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2002/05/01",
+      "O18": "-7.18",
+      "D": "-47.10",
+      "Dxs": "10.34",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-0.71",
+      "D": "3.70",
+      "Dxs": "9.38",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2003/02/01",
+      "O18": "-0.38",
+      "D": "5.30",
+      "Dxs": "8.34",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2004/02/01",
+      "O18": "-1.90",
+      "D": "-2.10",
+      "Dxs": "13.1",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2016/01/06",
+      "O18": "-4.74",
+      "D": "-34.80",
+      "Dxs": "3.12",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2016/01/22",
+      "O18": "-4.78",
+      "D": "-35.10",
+      "Dxs": "3.14",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2016/01/27",
+      "O18": "-1.09",
+      "D": "2.90",
+      "Dxs": "11.62",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2016/02/10",
+      "O18": "-0.58",
+      "D": "5.40",
+      "Dxs": "10.04",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2016/02/17",
+      "O18": "-4.89",
+      "D": "-34.90",
+      "Dxs": "4.22",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2016/02/24",
+      "O18": "-4.70",
+      "D": "-34.60",
+      "Dxs": "3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2017/02/25",
+      "O18": "-5.92",
+      "D": "-33.60",
+      "Dxs": "13.76",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2017/03/09",
+      "O18": "-7.83",
+      "D": "-47.10",
+      "Dxs": "15.54",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2017/03/15",
+      "O18": "-14.86",
+      "D": "-106.20",
+      "Dxs": "12.68",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2017/03/21",
+      "O18": "-14.85",
+      "D": "-106.00",
+      "Dxs": "12.8",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2017/03/28",
+      "O18": "-13.84",
+      "D": "-98.90",
+      "Dxs": "11.82",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001301",
+      "Sample_Collection_Date": "2017/04/05",
+      "O18": "-13.82",
+      "D": "-98.80",
+      "Dxs": "11.76",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2016/01/30",
+      "O18": "0.30",
+      "D": "9.20",
+      "Dxs": "6.8",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2016/02/22",
+      "O18": "-0.96",
+      "D": "2.10",
+      "Dxs": "9.78",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2016/02/26",
+      "O18": "-0.72",
+      "D": "2.50",
+      "Dxs": "8.26",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2016/03/03",
+      "O18": "-2.50",
+      "D": "-10.70",
+      "Dxs": "9.3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2016/03/04",
+      "O18": "-2.46",
+      "D": "-10.90",
+      "Dxs": "8.78",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/01/31",
+      "O18": "-6.02",
+      "D": "-37.00",
+      "Dxs": "11.16",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/02/03",
+      "O18": "-8.52",
+      "D": "-59.00",
+      "Dxs": "9.16",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/02/17",
+      "O18": "-2.95",
+      "D": "-15.40",
+      "Dxs": "8.2",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/02/18",
+      "O18": "-3.24",
+      "D": "-19.70",
+      "Dxs": "6.22",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/02/21",
+      "O18": "-1.11",
+      "D": "-1.10",
+      "Dxs": "7.78",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/02/23",
+      "O18": "-3.28",
+      "D": "-11.90",
+      "Dxs": "14.34",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/02/25",
+      "O18": "-2.71",
+      "D": "-11.70",
+      "Dxs": "9.98",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/02/27",
+      "O18": "-4.13",
+      "D": "-25.30",
+      "Dxs": "7.74",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/06",
+      "O18": "-6.87",
+      "D": "-42.20",
+      "Dxs": "12.76",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/07",
+      "O18": "-7.74",
+      "D": "-49.70",
+      "Dxs": "12.22",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/08",
+      "O18": "-9.84",
+      "D": "-68.60",
+      "Dxs": "10.12",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/09",
+      "O18": "-11.51",
+      "D": "-83.30",
+      "Dxs": "8.78",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/13",
+      "O18": "-11.85",
+      "D": "-83.90",
+      "Dxs": "10.9",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/14",
+      "O18": "-14.64",
+      "D": "-108.60",
+      "Dxs": "8.52",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/20",
+      "O18": "-11.16",
+      "D": "-79.10",
+      "Dxs": "10.18",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/21",
+      "O18": "-9.37",
+      "D": "-62.20",
+      "Dxs": "12.76",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001401",
+      "Sample_Collection_Date": "2017/03/22",
+      "O18": "-14.34",
+      "D": "-107.60",
+      "Dxs": "7.12",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001501",
+      "Sample_Collection_Date": "2001/12/01",
+      "O18": "-0.04",
+      "D": "-0.70",
+      "Dxs": "-0.38",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001501",
+      "Sample_Collection_Date": "2002/02/01",
+      "O18": "0.34",
+      "D": "4.70",
+      "Dxs": "1.98",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001501",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.46",
+      "D": "-37.80",
+      "Dxs": "5.88",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001501",
+      "Sample_Collection_Date": "2002/04/01",
+      "O18": "-7.52",
+      "D": "-52.50",
+      "Dxs": "7.66",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001501",
+      "Sample_Collection_Date": "2003/01/01",
+      "O18": "-0.85",
+      "D": "3.00",
+      "Dxs": "9.8",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001501",
+      "Sample_Collection_Date": "2004/02/01",
+      "O18": "0.80",
+      "D": "8.70",
+      "Dxs": "2.3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001701",
+      "Sample_Collection_Date": "2003/01/01",
+      "O18": "-0.47",
+      "D": "1.95",
+      "Dxs": "5.71",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001701",
+      "Sample_Collection_Date": "2009/01/01",
+      "O18": "-4.56",
+      "D": "-30.60",
+      "Dxs": "5.88",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001701",
+      "Sample_Collection_Date": "2010/02/01",
+      "O18": "-2.99",
+      "D": "-13.10",
+      "Dxs": "10.82",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2015/12/01",
+      "O18": "-8.53",
+      "D": "-57.19",
+      "Dxs": "11.05",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2015/12/16",
+      "O18": "-4.63",
+      "D": "-23.93",
+      "Dxs": "13.11",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/01/01",
+      "O18": "-4.15",
+      "D": "-25.14",
+      "Dxs": "8.06",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/01/16",
+      "O18": "-2.79",
+      "D": "-8.88",
+      "Dxs": "13.44",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/02/01",
+      "O18": "-0.39",
+      "D": "10.83",
+      "Dxs": "13.95",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/02/16",
+      "O18": "-9.19",
+      "D": "-62.90",
+      "Dxs": "10.62",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/03/01",
+      "O18": "-3.46",
+      "D": "-17.20",
+      "Dxs": "10.48",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/03/16",
+      "O18": "-11.34",
+      "D": "-80.51",
+      "Dxs": "10.21",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/04/01",
+      "O18": "-11.78",
+      "D": "-80.54",
+      "Dxs": "13.7",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/04/16",
+      "O18": "-15.21",
+      "D": "-109.61",
+      "Dxs": "12.07",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/05/12",
+      "O18": "-8.89",
+      "D": "-59.45",
+      "Dxs": "11.67",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/05/16",
+      "O18": "-10.76",
+      "D": "-72.57",
+      "Dxs": "13.51",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/06/01",
+      "O18": "-6.55",
+      "D": "-38.80",
+      "Dxs": "13.6",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/06/16",
+      "O18": "-7.41",
+      "D": "-53.20",
+      "Dxs": "6.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/07/01",
+      "O18": "-1.68",
+      "D": "-3.80",
+      "Dxs": "9.64",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/07/16",
+      "O18": "-4.21",
+      "D": "-20.20",
+      "Dxs": "13.48",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/08/01",
+      "O18": "0.97",
+      "D": "19.60",
+      "Dxs": "11.84",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/08/16",
+      "O18": "-0.21",
+      "D": "11.70",
+      "Dxs": "13.38",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/09/01",
+      "O18": "-6.41",
+      "D": "-35.10",
+      "Dxs": "16.18",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/09/16",
+      "O18": "-2.54",
+      "D": "-3.90",
+      "Dxs": "16.42",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/10/01",
+      "O18": "-3.93",
+      "D": "-17.40",
+      "Dxs": "14.04",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/10/16",
+      "O18": "-7.96",
+      "D": "-48.60",
+      "Dxs": "15.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/11/01",
+      "O18": "-2.91",
+      "D": "-7.70",
+      "Dxs": "15.58",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/11/16",
+      "O18": "-7.19",
+      "D": "-44.60",
+      "Dxs": "12.92",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/12/01",
+      "O18": "-8.38",
+      "D": "-56.00",
+      "Dxs": "11.04",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2016/12/16",
+      "O18": "-6.56",
+      "D": "-41.40",
+      "Dxs": "11.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/01/01",
+      "O18": "-4.30",
+      "D": "-35.60",
+      "Dxs": "-1.2",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/01/16",
+      "O18": "-10.18",
+      "D": "-70.10",
+      "Dxs": "11.34",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-6.29",
+      "D": "-36.20",
+      "Dxs": "14.12",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/02/16",
+      "O18": "-5.84",
+      "D": "-34.40",
+      "Dxs": "12.32",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/03/01",
+      "O18": "-8.46",
+      "D": "-56.30",
+      "Dxs": "11.38",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-20.11",
+      "D": "-152.10",
+      "Dxs": "8.78",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/04/01",
+      "O18": "-20.51",
+      "D": "-155.00",
+      "Dxs": "9.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/04/16",
+      "O18": "-12.48",
+      "D": "-89.00",
+      "Dxs": "10.84",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/05/01",
+      "O18": "-13.05",
+      "D": "-95.80",
+      "Dxs": "8.6",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/05/16",
+      "O18": "-17.05",
+      "D": "-125.80",
+      "Dxs": "10.6",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/06/01",
+      "O18": "-7.38",
+      "D": "-49.80",
+      "Dxs": "9.24",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/06/16",
+      "O18": "-13.46",
+      "D": "-100.20",
+      "Dxs": "7.48",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/07/01",
+      "O18": "-4.14",
+      "D": "-17.80",
+      "Dxs": "15.32",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/07/16",
+      "O18": "-1.73",
+      "D": "-0.30",
+      "Dxs": "13.54",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/08/01",
+      "O18": "-0.57",
+      "D": "10.80",
+      "Dxs": "15.36",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/08/16",
+      "O18": "-2.55",
+      "D": "-2.80",
+      "Dxs": "17.6",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/09/01",
+      "O18": "-1.59",
+      "D": "5.20",
+      "Dxs": "17.92",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/09/16",
+      "O18": "-2.44",
+      "D": "-3.60",
+      "Dxs": "15.92",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/10/01",
+      "O18": "-5.53",
+      "D": "-31.00",
+      "Dxs": "13.24",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/10/16",
+      "O18": "-6.62",
+      "D": "-39.50",
+      "Dxs": "13.46",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/11/01",
+      "O18": "-11.04",
+      "D": "-80.60",
+      "Dxs": "7.72",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001801",
+      "Sample_Collection_Date": "2017/11/16",
+      "O18": "-9.45",
+      "D": "-66.20",
+      "Dxs": "9.4",
+      "Sample_Type": "Precipitation",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2016/12/01",
+      "O18": "-4.00",
+      "D": "-13.90",
+      "Dxs": "18.1",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2016/12/15",
+      "O18": "-14.36",
+      "D": "-107.80",
+      "Dxs": "7.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/01/02",
+      "O18": "-19.12",
+      "D": "-140.90",
+      "Dxs": "12.06",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/01/16",
+      "O18": "-20.61",
+      "D": "-158.30",
+      "Dxs": "6.58",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-17.32",
+      "D": "-127.70",
+      "Dxs": "10.86",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/02/16",
+      "O18": "-17.13",
+      "D": "-126.50",
+      "Dxs": "10.54",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/03/01",
+      "O18": "-23.78",
+      "D": "-178.80",
+      "Dxs": "11.44",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-21.15",
+      "D": "-159.20",
+      "Dxs": "10",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/04/03",
+      "O18": "-27.96",
+      "D": "-208.40",
+      "Dxs": "15.28",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/04/17",
+      "O18": "-16.73",
+      "D": "-125.70",
+      "Dxs": "8.14",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/05/02",
+      "O18": "-19.23",
+      "D": "-144.90",
+      "Dxs": "8.94",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/05/16",
+      "O18": "-9.93",
+      "D": "-73.80",
+      "Dxs": "5.64",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/06/01",
+      "O18": "-10.17",
+      "D": "-75.30",
+      "Dxs": "6.06",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/06/16",
+      "O18": "-6.34",
+      "D": "-54.90",
+      "Dxs": "-4.18",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/07/03",
+      "O18": "-7.60",
+      "D": "-52.90",
+      "Dxs": "7.9",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/09/01",
+      "O18": "-3.21",
+      "D": "-20.10",
+      "Dxs": "5.58",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/09/15",
+      "O18": "-1.58",
+      "D": "-3.50",
+      "Dxs": "9.14",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/10/02",
+      "O18": "-3.93",
+      "D": "-16.90",
+      "Dxs": "14.54",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/10/16",
+      "O18": "-11.19",
+      "D": "-80.60",
+      "Dxs": "8.92",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/11/02",
+      "O18": "-5.18",
+      "D": "-33.20",
+      "Dxs": "8.24",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/11/16",
+      "O18": "-8.37",
+      "D": "-64.20",
+      "Dxs": "2.76",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/12/01",
+      "O18": "-10.44",
+      "D": "-74.40",
+      "Dxs": "9.12",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2017/12/15",
+      "O18": "-8.26",
+      "D": "-55.70",
+      "Dxs": "10.38",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/01/02",
+      "O18": "-10.46",
+      "D": "-74.50",
+      "Dxs": "9.18",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/01/17",
+      "O18": "-20.41",
+      "D": "-156.10",
+      "Dxs": "7.18",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/02/01",
+      "O18": "-7.38",
+      "D": "-46.60",
+      "Dxs": "12.44",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/02/15",
+      "O18": "-9.54",
+      "D": "-66.90",
+      "Dxs": "9.42",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/03/16",
+      "O18": "-18.71",
+      "D": "-138.40",
+      "Dxs": "11.28",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/04/02",
+      "O18": "-15.66",
+      "D": "-115.70",
+      "Dxs": "9.58",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/04/16",
+      "O18": "-13.51",
+      "D": "-101.00",
+      "Dxs": "7.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/05/02",
+      "O18": "-12.63",
+      "D": "-93.20",
+      "Dxs": "7.84",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "001901",
+      "Sample_Collection_Date": "2018/06/15",
+      "O18": "-11.07",
+      "D": "-87.10",
+      "Dxs": "1.46",
+      "Sample_Type": "Precipitation",
+      "Department": "Junín"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2016/09/16",
+      "O18": "2.81",
+      "D": "24.50",
+      "Dxs": "2.02",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2016/10/01",
+      "O18": "-3.23",
+      "D": "-9.20",
+      "Dxs": "16.64",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2016/10/16",
+      "O18": "-6.46",
+      "D": "-39.40",
+      "Dxs": "12.28",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2016/11/01",
+      "O18": "-2.17",
+      "D": "2.60",
+      "Dxs": "19.96",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2016/11/16",
+      "O18": "-4.50",
+      "D": "-22.50",
+      "Dxs": "13.5",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2016/12/01",
+      "O18": "-6.89",
+      "D": "-41.50",
+      "Dxs": "13.62",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2016/12/16",
+      "O18": "-5.45",
+      "D": "-30.60",
+      "Dxs": "13",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/01/01",
+      "O18": "-10.47",
+      "D": "-71.80",
+      "Dxs": "11.96",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/01/16",
+      "O18": "-10.49",
+      "D": "-71.90",
+      "Dxs": "12.02",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/02/01",
+      "O18": "-10.49",
+      "D": "-71.80",
+      "Dxs": "12.12",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/02/16",
+      "O18": "-10.52",
+      "D": "-72.00",
+      "Dxs": "12.16",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/03/01",
+      "O18": "-10.49",
+      "D": "-71.90",
+      "Dxs": "12.02",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/03/16",
+      "O18": "-10.49",
+      "D": "-71.70",
+      "Dxs": "12.22",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/04/01",
+      "O18": "-10.50",
+      "D": "-71.80",
+      "Dxs": "12.2",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/04/16",
+      "O18": "-5.33",
+      "D": "-30.00",
+      "Dxs": "12.64",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "002101",
+      "Sample_Collection_Date": "2017/05/01",
+      "O18": "-12.21",
+      "D": "-85.50",
+      "Dxs": "12.18",
+      "Sample_Type": "Precipitation",
+      "Department": "Loreto"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2003/01/01",
+      "O18": "-0.37",
+      "D": "2.94",
+      "Dxs": "5.9",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2003/12/01",
+      "O18": "-2.51",
+      "D": "-11.56",
+      "Dxs": "8.52",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2004/03/01",
+      "O18": "-1.00",
+      "D": "-2.18",
+      "Dxs": "5.82",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2004/04/01",
+      "O18": "-3.69",
+      "D": "-22.65",
+      "Dxs": "6.87",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2005/04/01",
+      "O18": "-7.24",
+      "D": "-49.16",
+      "Dxs": "8.76",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2006/03/01",
+      "O18": "-4.04",
+      "D": "-23.60",
+      "Dxs": "8.72",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2007/01/01",
+      "O18": "-1.29",
+      "D": "-2.91",
+      "Dxs": "7.41",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2007/10/01",
+      "O18": "-0.72",
+      "D": "4.22",
+      "Dxs": "9.98",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2008/02/01",
+      "O18": "-6.87",
+      "D": "-44.05",
+      "Dxs": "10.95",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2008/03/01",
+      "O18": "-6.86",
+      "D": "-44.52",
+      "Dxs": "10.32",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2008/04/01",
+      "O18": "-4.28",
+      "D": "-27.24",
+      "Dxs": "6.97",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2009/01/01",
+      "O18": "-7.02",
+      "D": "-46.00",
+      "Dxs": "10.16",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2009/02/01",
+      "O18": "-4.25",
+      "D": "-23.60",
+      "Dxs": "10.4",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2009/03/01",
+      "O18": "-2.45",
+      "D": "-9.90",
+      "Dxs": "9.7",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2009/04/01",
+      "O18": "-3.32",
+      "D": "-18.50",
+      "Dxs": "8.06",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2010/01/01",
+      "O18": "0.19",
+      "D": "7.50",
+      "Dxs": "5.98",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2010/02/01",
+      "O18": "-2.36",
+      "D": "-7.60",
+      "Dxs": "11.28",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2010/03/01",
+      "O18": "-4.37",
+      "D": "-22.90",
+      "Dxs": "12.06",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2010/04/01",
+      "O18": "-6.11",
+      "D": "-38.80",
+      "Dxs": "10.08",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2011/01/01",
+      "O18": "-3.12",
+      "D": "-11.00",
+      "Dxs": "13.94",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2011/02/01",
+      "O18": "-2.28",
+      "D": "-7.10",
+      "Dxs": "11.14",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003701",
+      "Sample_Collection_Date": "2011/04/01",
+      "O18": "-6.73",
+      "D": "-48.60",
+      "Dxs": "5.23",
+      "Sample_Type": "Precipitation",
+      "Department": "Tumbes"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2001/12/01",
+      "O18": "-4.75",
+      "D": "-29.50",
+      "Dxs": "8.5",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2002/01/01",
+      "O18": "-2.93",
+      "D": "-12.00",
+      "Dxs": "11.44",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2002/02/01",
+      "O18": "-4.10",
+      "D": "-18.90",
+      "Dxs": "13.9",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-10.21",
+      "D": "-70.90",
+      "Dxs": "10.78",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2002/04/01",
+      "O18": "-13.12",
+      "D": "-92.90",
+      "Dxs": "12.06",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2002/05/01",
+      "O18": "-8.57",
+      "D": "-63.60",
+      "Dxs": "4.96",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-6.80",
+      "D": "-44.80",
+      "Dxs": "9.6",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2002/11/01",
+      "O18": "-5.51",
+      "D": "-35.70",
+      "Dxs": "8.38",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2002/12/01",
+      "O18": "-4.18",
+      "D": "-23.80",
+      "Dxs": "9.64",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2003/01/01",
+      "O18": "-3.05",
+      "D": "-13.50",
+      "Dxs": "10.9",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2003/02/01",
+      "O18": "-3.64",
+      "D": "-16.80",
+      "Dxs": "12.32",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003801",
+      "Sample_Collection_Date": "2004/02/01",
+      "O18": "-3.00",
+      "D": "-9.30",
+      "Dxs": "14.7",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2001/12/01",
+      "O18": "-2.12",
+      "D": "-10.40",
+      "Dxs": "6.56",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2002/02/01",
+      "O18": "-2.85",
+      "D": "-15.80",
+      "Dxs": "7",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-7.91",
+      "D": "-54.40",
+      "Dxs": "8.88",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2002/04/01",
+      "O18": "-9.94",
+      "D": "-73.50",
+      "Dxs": "6.02",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2002/05/01",
+      "O18": "-5.66",
+      "D": "-34.90",
+      "Dxs": "10.38",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-3.79",
+      "D": "-22.70",
+      "Dxs": "7.62",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2002/11/01",
+      "O18": "-1.87",
+      "D": "-9.20",
+      "Dxs": "5.76",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2002/12/01",
+      "O18": "-1.79",
+      "D": "-6.17",
+      "Dxs": "8.15",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2003/01/01",
+      "O18": "-1.87",
+      "D": "-4.00",
+      "Dxs": "10.96",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2003/02/01",
+      "O18": "-2.67",
+      "D": "-8.90",
+      "Dxs": "12.46",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "003901",
+      "Sample_Collection_Date": "2004/02/01",
+      "O18": "-2.20",
+      "D": "-7.30",
+      "Dxs": "10.3",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004001",
+      "Sample_Collection_Date": "2002/04/01",
+      "O18": "-9.37",
+      "D": "-61.70",
+      "Dxs": "13.26",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004001",
+      "Sample_Collection_Date": "2002/05/01",
+      "O18": "-4.94",
+      "D": "-31.60",
+      "Dxs": "7.92",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004001",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-4.36",
+      "D": "-35.70",
+      "Dxs": "-0.82",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004001",
+      "Sample_Collection_Date": "2002/12/01",
+      "O18": "-1.45",
+      "D": "-6.50",
+      "Dxs": "5.1",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004001",
+      "Sample_Collection_Date": "2003/01/01",
+      "O18": "-1.79",
+      "D": "-2.50",
+      "Dxs": "11.82",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004001",
+      "Sample_Collection_Date": "2003/02/01",
+      "O18": "-1.81",
+      "D": "-3.80",
+      "Dxs": "10.68",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004101",
+      "Sample_Collection_Date": "2002/04/01",
+      "O18": "-9.27",
+      "D": "-66.50",
+      "Dxs": "7.66",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004101",
+      "Sample_Collection_Date": "2003/01/01",
+      "O18": "-0.14",
+      "D": "7.50",
+      "Dxs": "8.62",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004101",
+      "Sample_Collection_Date": "2003/02/01",
+      "O18": "-0.79",
+      "D": "4.00",
+      "Dxs": "10.32",
+      "Sample_Type": "Precipitation",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004202",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.68",
+      "D": "-36.00",
+      "Dxs": "9.44",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004202",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-5.62",
+      "D": "-37.90",
+      "Dxs": "7.06",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004202",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-4.90",
+      "D": "-33.60",
+      "Dxs": "5.6",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004202",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-4.97",
+      "D": "-32.50",
+      "Dxs": "7.26",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004302",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.70",
+      "D": "-38.00",
+      "Dxs": "7.6",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004302",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-5.62",
+      "D": "-37.90",
+      "Dxs": "7.06",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004302",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-4.90",
+      "D": "-33.60",
+      "Dxs": "5.6",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004302",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-4.97",
+      "D": "-32.50",
+      "Dxs": "7.26",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004302",
+      "Sample_Collection_Date": "2003/12/01",
+      "O18": "-4.90",
+      "D": "-34.20",
+      "Dxs": "5",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004402",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.88",
+      "D": "-39.00",
+      "Dxs": "8.04",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004402",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-4.01",
+      "D": "-28.80",
+      "Dxs": "3.28",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004402",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-4.50",
+      "D": "-29.10",
+      "Dxs": "6.9",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004402",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-5.17",
+      "D": "-32.20",
+      "Dxs": "9.16",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004502",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.76",
+      "D": "-36.00",
+      "Dxs": "10.08",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004502",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-4.77",
+      "D": "-33.10",
+      "Dxs": "5.06",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004502",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-4.60",
+      "D": "-30.20",
+      "Dxs": "6.6",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004502",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-5.07",
+      "D": "-32.40",
+      "Dxs": "8.16",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004602",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.19",
+      "D": "-34.00",
+      "Dxs": "7.52",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004602",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-4.65",
+      "D": "-32.50",
+      "Dxs": "4.7",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004602",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-4.60",
+      "D": "-30.70",
+      "Dxs": "6.1",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004602",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-5.05",
+      "D": "-32.50",
+      "Dxs": "7.9",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004602",
+      "Sample_Collection_Date": "2003/12/01",
+      "O18": "-4.10",
+      "D": "-29.50",
+      "Dxs": "3.3",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004702",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-6.00",
+      "D": "-39.00",
+      "Dxs": "9",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004702",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-4.78",
+      "D": "-31.40",
+      "Dxs": "6.84",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004702",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-5.30",
+      "D": "-33.50",
+      "Dxs": "8.9",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004802",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.93",
+      "D": "-40.30",
+      "Dxs": "7.14",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004802",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-4.51",
+      "D": "-29.90",
+      "Dxs": "6.18",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004802",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-4.70",
+      "D": "-31.50",
+      "Dxs": "6.1",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004802",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-5.07",
+      "D": "-32.80",
+      "Dxs": "7.76",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004902",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.13",
+      "D": "-32.30",
+      "Dxs": "8.74",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004902",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-2.67",
+      "D": "-19.90",
+      "Dxs": "1.46",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004902",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-3.60",
+      "D": "-24.50",
+      "Dxs": "4.3",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "004902",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-4.08",
+      "D": "-26.10",
+      "Dxs": "6.54",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005002",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.92",
+      "D": "-35.50",
+      "Dxs": "11.86",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005002",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-4.11",
+      "D": "-26.90",
+      "Dxs": "5.98",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005102",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.86",
+      "D": "-36.90",
+      "Dxs": "9.98",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005102",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-3.65",
+      "D": "-26.80",
+      "Dxs": "2.4",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005102",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-4.20",
+      "D": "-29.10",
+      "Dxs": "4.5",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005102",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-4.71",
+      "D": "-30.30",
+      "Dxs": "7.38",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005202",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-5.90",
+      "D": "-40.00",
+      "Dxs": "7.2",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005202",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-4.67",
+      "D": "-32.10",
+      "Dxs": "5.26",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005202",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-5.10",
+      "D": "-32.50",
+      "Dxs": "8.3",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005202",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-5.50",
+      "D": "-34.60",
+      "Dxs": "9.4",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005302",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-6.00",
+      "D": "-41.00",
+      "Dxs": "7",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005302",
+      "Sample_Collection_Date": "2002/06/01",
+      "O18": "-5.10",
+      "D": "-32.00",
+      "Dxs": "8.8",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005302",
+      "Sample_Collection_Date": "2002/10/01",
+      "O18": "-4.92",
+      "D": "-32.50",
+      "Dxs": "6.86",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005302",
+      "Sample_Collection_Date": "2003/03/01",
+      "O18": "-5.12",
+      "D": "-31.70",
+      "Dxs": "9.26",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005302",
+      "Sample_Collection_Date": "2003/12/01",
+      "O18": "-4.40",
+      "D": "-27.30",
+      "Dxs": "7.9",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "005402",
+      "Sample_Collection_Date": "2002/03/01",
+      "O18": "-6.00",
+      "D": "-40.00",
+      "Dxs": "8",
+      "Sample_Type": "River",
+      "Department": "Piura"
+    },
+    {
+      "ID": "006703",
+      "Sample_Collection_Date": "2018/02/16",
+      "O18": "-8.8",
+      "D": "-57.2",
+      "Dxs": "13.20",
+      "Sample_Type": "Spring",
+      "Department": "Cajamarca"
+    },
+    {
+      "ID": "006803",
+      "Sample_Collection_Date": "2018/02/18",
+      "O18": "-9.5",
+      "D": "-65.6",
+      "Dxs": "10.40",
+      "Sample_Type": "Spring",
+      "Department": "Cajamarca"
+    },
+    {
+      "ID": "006903",
+      "Sample_Collection_Date": "2018/02/19",
+      "O18": "-11.5",
+      "D": "-80.1",
+      "Dxs": "11.90",
+      "Sample_Type": "Spring",
+      "Department": "Cajamarca"
+    },
+    {
+      "ID": "007003",
+      "Sample_Collection_Date": "2018/02/19",
+      "O18": "-10.9",
+      "D": "-76.1",
+      "Dxs": "11.10",
+      "Sample_Type": "Spring",
+      "Department": "Cajamarca"
+    },
+    {
+      "ID": "007103",
+      "Sample_Collection_Date": "2018/02/20",
+      "O18": "-11.8",
+      "D": "-84.3",
+      "Dxs": "10.10",
+      "Sample_Type": "Spring",
+      "Department": "La Libertad"
+    },
+    {
+      "ID": "007203",
+      "Sample_Collection_Date": "2018/02/20",
+      "O18": "-11.0",
+      "D": "-76.2",
+      "Dxs": "11.80",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "007303",
+      "Sample_Collection_Date": "2018/02/20",
+      "O18": "-10.5",
+      "D": "-71.5",
+      "Dxs": "12.50",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "007403",
+      "Sample_Collection_Date": "2018/02/21",
+      "O18": "-10.0",
+      "D": "-68.3",
+      "Dxs": "11.70",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "007503",
+      "Sample_Collection_Date": "2018/02/21",
+      "O18": "-9.7",
+      "D": "-67.0",
+      "Dxs": "10.60",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "007603",
+      "Sample_Collection_Date": "2018/02/22",
+      "O18": "-8.9",
+      "D": "-60.2",
+      "Dxs": "11.00",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "007703",
+      "Sample_Collection_Date": "2018/02/22",
+      "O18": "-8.9",
+      "D": "-63.4",
+      "Dxs": "7.80",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "007803",
+      "Sample_Collection_Date": "2018/02/23",
+      "O18": "-10.0",
+      "D": "-68.1",
+      "Dxs": "11.90",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "007903",
+      "Sample_Collection_Date": "2018/02/23",
+      "O18": "-9.6",
+      "D": "-63.7",
+      "Dxs": "13.10",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "008003",
+      "Sample_Collection_Date": "2018/02/24",
+      "O18": "-9.8",
+      "D": "-68.9",
+      "Dxs": "9.50",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "008103",
+      "Sample_Collection_Date": "2018/02/24",
+      "O18": "-9.3",
+      "D": "-63.8",
+      "Dxs": "10.60",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "008203",
+      "Sample_Collection_Date": "2018/02/25",
+      "O18": "-7.2",
+      "D": "-48.8",
+      "Dxs": "8.80",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "008303",
+      "Sample_Collection_Date": "2018/02/25",
+      "O18": "-8.0",
+      "D": "-50.9",
+      "Dxs": "13.10",
+      "Sample_Type": "Spring",
+      "Department": "Amazonas"
+    },
+    {
+      "ID": "008409",
+      "Sample_Collection_Date": "2018/02/25",
+      "O18": "-7.5",
+      "D": "-48.4",
+      "Dxs": "11.60",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "008509",
+      "Sample_Collection_Date": "2018/02/26",
+      "O18": "-7.2",
+      "D": "-48.0",
+      "Dxs": "9.60",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "008609",
+      "Sample_Collection_Date": "2018/02/27",
+      "O18": "-7.4",
+      "D": "-46.9",
+      "Dxs": "12.30",
+      "Sample_Type": "Groundwater",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "008703",
+      "Sample_Collection_Date": "2018/03/02",
+      "O18": "-6.3",
+      "D": "-40.0",
+      "Dxs": "10.40",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "008803",
+      "Sample_Collection_Date": "2018/03/03",
+      "O18": "-7.3",
+      "D": "-46.8",
+      "Dxs": "11.60",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "008903",
+      "Sample_Collection_Date": "2018/03/03",
+      "O18": "-7.0",
+      "D": "-45.4",
+      "Dxs": "10.60",
+      "Sample_Type": "Spring",
+      "Department": "San Martín"
+    },
+    {
+      "ID": "009003",
+      "Sample_Collection_Date": "2018/03/03",
+      "O18": "-8.1",
+      "D": "-53.3",
+      "Dxs": "11.50",
+      "Sample_Type": "Spring",
+      "Department": "Huánuco "
+    },
+    {
+      "ID": "009103",
+      "Sample_Collection_Date": "2018/03/03",
+      "O18": "-8.3",
+      "D": "-55.9",
+      "Dxs": "10.50",
+      "Sample_Type": "Spring",
+      "Department": "Huánuco "
+    },
+    {
+      "ID": "009203",
+      "Sample_Collection_Date": "2018/03/04",
+      "O18": "-15.4",
+      "D": "-117.6",
+      "Dxs": "5.60",
+      "Sample_Type": "Spring",
+      "Department": "Junín"
+    },
+    {
+      "ID": "009303",
+      "Sample_Collection_Date": "2018/03/04",
+      "O18": "-14.9",
+      "D": "-113.1",
+      "Dxs": "6.10",
+      "Sample_Type": "Spring",
+      "Department": "Junín"
+    },
+    {
+      "ID": "009403",
+      "Sample_Collection_Date": "2018/03/04",
+      "O18": "-14.6",
+      "D": "-112.3",
+      "Dxs": "4.50",
+      "Sample_Type": "Groundwater",
+      "Department": "Junín"
+    },
+    {
+      "ID": "009503",
+      "Sample_Collection_Date": "2018/03/05",
+      "O18": "-16.5",
+      "D": "-123.7",
+      "Dxs": "8.30",
+      "Sample_Type": "Spring",
+      "Department": "Lima"
+    },
+    {
+      "ID": "044502",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-10.47",
+      "D": "-76.05",
+      "Dxs": "7.74",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "044602",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-10.4",
+      "D": "-65.9",
+      "Dxs": "17.3",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "044702",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-9.21",
+      "D": "-59.14",
+      "Dxs": "14.54",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "044802",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-10.19",
+      "D": "-66.48",
+      "Dxs": "15.02",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "044902",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-9.55",
+      "D": "-67.33",
+      "Dxs": "9.08",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "045002",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-6.14",
+      "D": "-50.17",
+      "Dxs": "-1.01",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "045102",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-8.69",
+      "D": "-57.94",
+      "Dxs": "11.61",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "045202",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-5.88",
+      "D": "-42.31",
+      "Dxs": "4.74",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "045302",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-9.08",
+      "D": "-58.07",
+      "Dxs": "14.61",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "045402",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-84",
+      "D": "-49.49",
+      "Dxs": "12.68",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "045502",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-8.32",
+      "D": "-55.81",
+      "Dxs": "10.72",
+      "Sample_Type": "River",
+      "Department": "Madre de Dios"
+    },
+    {
+      "ID": "045602",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-7.18",
+      "D": "-45.44",
+      "Dxs": "12.04",
+      "Sample_Type": "River",
+      "Department": "Cusco"
+    },
+    {
+      "ID": "045702",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-14.33",
+      "D": "-116.42",
+      "Dxs": "-1.76",
+      "Sample_Type": "River",
+      "Department": "Cusco"
+    },
+    {
+      "ID": "045802",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-15.21",
+      "D": "-119.65",
+      "Dxs": "2",
+      "Sample_Type": "River",
+      "Department": "Cusco"
+    },
+    {
+      "ID": "045902",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-15.71",
+      "D": "-122.38",
+      "Dxs": "3.33",
+      "Sample_Type": "River",
+      "Department": "Cusco"
+    },
+    {
+      "ID": "046002",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-14.15",
+      "D": "-105.88",
+      "Dxs": "7.34",
+      "Sample_Type": "River",
+      "Department": "Cusco"
+    },
+    {
+      "ID": "046102",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-14.93",
+      "D": "-106.33",
+      "Dxs": "13.11",
+      "Sample_Type": "River",
+      "Department": "Cusco"
+    },
+    {
+      "ID": "046202",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-15.6",
+      "D": "-121.25",
+      "Dxs": "3.58",
+      "Sample_Type": "River",
+      "Department": "Apurimac"
+    },
+    {
+      "ID": "046302",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-13.67",
+      "D": "-107.79",
+      "Dxs": "2.57",
+      "Sample_Type": "River",
+      "Department": "Apurimac"
+    },
+    {
+      "ID": "046402",
+      "Sample_Collection_Date": "2009/08/01",
+      "O18": "-15.64",
+      "D": "-125.86",
+      "Dxs": "-0.7",
+      "Sample_Type": "River",
+      "Department": "Arequipa"
+    }
+  ]
+}
