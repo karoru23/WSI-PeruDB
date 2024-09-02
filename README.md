@@ -2,14 +2,8 @@
 This package allows users to access the Water Stable Isotope Database in Peru. It includes 464 stations over Peru, updated until 2023, and provides an interactive map for exploring the spatial distribution of all the stations. Additionally, it offers features for technical validation and display temporal series for each station and department across Peru.
 
 ## How to use it 
-Before installing the WSIPeruDB package, users must create a new environment and install either the notebook version 6.5.2 or jupyterlab version 3.5.3
-```
-conda install notebook=6.5.2
-```
-or 
-```
-conda install jupyterlab=3.5.3
-```
+Before installing the WSIPeruDB package, users must create a new environment and install either Jupyter Notebook or JupyterLab. Additionally, users should use the Chrome browser to avoid issues with visualization.
+
 Then, users can install the package WSIPeruDB: 
 
 ```
